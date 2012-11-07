@@ -9,8 +9,8 @@ box-shadow:1px 1px 3px #a4a7a3 inset;}
 .index_wrap .about_us a{color:#333;text-decoration:none;}
 .index_wrap .index_search{position:relative;width:16em;margin:0 auto;}
 .index_wrap .icon{display:inline-block;font-size:0;overflow:hidden;}
-.index_wrap .icon_search{background:url(images/icon_search.gif);width:12px;height:12px;  position:absolute;top:10px;left:10px;}
-.index_wrap .icon_add{background:url(images/icon_add.gif);width:10px;height:10px; position:absolute;top:10px;right:10px;}
+.index_wrap .icon_search{background:url(../images/icon_search.gif);width:12px;height:12px;  position:absolute;top:10px;left:10px;}
+.index_wrap .icon_add{background:url(../images/icon_add.gif);width:10px;height:10px; position:absolute;top:10px;right:10px;}
 .index_wrap .search_list li{height:2em;border-top:1px solid #fff;border-bottom:1px solid #999;position:relative;text-align:left;padding:0 20px 0 30px;}
 .index_wrap .search_list{width:14em;position:absolute;left:0;}
 .index_wrap .search_list ul{background:#D1D6CF;border-radius:15px;}
