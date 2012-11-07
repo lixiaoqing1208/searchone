@@ -46,8 +46,9 @@ box-shadow:1px 1px 3px #a4a7a3 inset;}
 
 .rel_list{margin-top:5px;}
 
-.app_info{padding:0px 0 0 4px;font-size:14px;}
-.app_info{line-height:24px;}
+.app_info{padding:0px 0 0 4px;font-size:14px;line-height:24px;}
+.app_info p{margin:0;}
+
 .score{ display:inline-block;width:69px;height:12px;background:url(../images/score_bg.gif) no-repeat -1px 0;vertical-align:middle;margin-top:-2px;}
 .score .score_number{display:block;height:12px;background:url(../images/score_number.gif) no-repeat;}
 .score .number_one{width:14px;}
