@@ -1,6 +1,6 @@
 ﻿body{text-align:left;}
 .head{position:relative; border-bottom:1px solid #E0E3DF;overflow:hidden;padding-bottom:10px;}
-.input_search{border:none;-webkit-border-radius:5px; background:#D1D6CF; width:15em;height:1.6em;padding:0  4.5em 0 1em;font-size:medium;
+.input_search{border:none;border-radius:15px;-webkit-border-radius:15px; background:#D1D6CF; width:15em;height:1.6em;padding:0  4.5em 0 1em;font-size:medium;
 box-shadow:1px 1px 3px #a4a7a3 inset;}
 .input_submit{cursor:pointer;border:none;margin-left:-3.8em;border-radius:15px;-webkit-border-radius:15px; color:#fff;width:3.5em;height:1.6em;font-size:medium;
     background:-webkit-linear-gradient(#027efa,#2b547d);}
