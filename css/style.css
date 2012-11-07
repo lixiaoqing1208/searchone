@@ -28,8 +28,7 @@ box-shadow:1px 1px 3px #a4a7a3 inset;}
  .search_list li{height:28px;border-bottom:1px solid #999;position:relative;text-align:left;padding:0 20px 0 30px;}
  .search_list{width:205px;margin:0 0 0 35px;}
  .search_list ul{background:#fff;font-size:14px;}
- .search_list .first{border-top:none;}
- .search_list .last{border-bottom:none;}
+ .search_list .word{width:140px;display:inline-block;}
 /**结果页**/
 .result_list{border-top:1px solid #E0E3DF;margin-top:10px;}
 .search_box{position:relative;}
