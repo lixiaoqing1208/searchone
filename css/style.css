@@ -7,6 +7,7 @@
 body{font-size:medium;line-height:1.6em;color:#333;background:#fff;font-family:"Microsoft YaHei";}img{border:0}form{margin:0;padding:0}.a{padding-top:6px;margin-top:6px;margin-bottom:6px}.h{color:#c60a00}.s{font-size:small}.b{font-size:small;color:#77C}li,ul{margin:0;padding:0;list-style:none;}.l{float:left;display:inline;}a{text-decoration:none;color:#00c;}
 h1{font-size:larger;margin:5em 0 1em;}
 /**首页**/
+.input_search,.input_submit{vertical-align:middle;}
 .index_wrap{text-align:center;}
 .index_wrap .input_search{border:none;-webkit-border-radius:5px; background:#cacfc8; width:205px;height:30px;padding-left:5px;font-size:15px;
 box-shadow:1px 1px 3px #a4a7a3 inset;}
